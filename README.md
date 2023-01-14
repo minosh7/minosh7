@@ -44,6 +44,6 @@ I'm a senior undergraduate student majoring in Computer Science at Texas Tech Un
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/minosh7"><img src="https://github-readme-stats.vercel.app/api?username=minosh7&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="Minosh's GitHub stats" /></a>
+<a href="http://www.github.com/minosh7"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=minosh7&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="Minosh's GitHub stats" /></a>
 
-<a href="https://github.com/minosh7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minosh7&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/minosh7" align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minosh7&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
