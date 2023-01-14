@@ -4,7 +4,7 @@ Minoshun
 CS @ Texas Tech University | Prev. SWE Intern @ HUGS International
 -----------------------------------------  
 
-I'm a senior undergraduate student in Computer Science from Texas Tech University, graduating in December 2022. Currently, I'm looking for new grad/entry-level Software Engineer opportunities for 2023.  
+I'm a recent newgrad student in Computer Science from Texas Tech University, and I graduated in December 2022. Currently, I'm looking for new grad/entry-level Software Engineer opportunities for 2023.  
 
 * 🌍  I'm based in Lubbock, TX 
 * ✉️  You can reach me at [minoshun.renganathan@ttu.edu](mailto:minoshun.renganathan@gmail.com)
